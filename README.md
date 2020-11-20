@@ -3,13 +3,13 @@
 
 ## Install
 ```
-npm install Sheller.js
+npm install re-sheller.js
 ```
 ## Quick start
 ```
 // see test.js
 const _package = require('./package.json')
-const { Sheller } = require('Sheller.js')
+const { Sheller } = require('re-sheller.js')
 
 const sheller = new Sheller()
 
